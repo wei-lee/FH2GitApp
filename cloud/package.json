@@ -4,7 +4,7 @@
   "private": true,
   "dependencies" : {        
     "fh-webapp" : "*",
-    "fh-mbaas-api" : "4.9.0",
+    "fh-mbaas-api" : "~4.9.0",
     "express" : "3.3.4"
   },
   "devDependencies":{
